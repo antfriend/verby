@@ -1,25 +1,7 @@
 {{
-         "hypnoray"
-        a meditator
-
-       ,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-      d'                                                                    8
-    ,P'                                                                     8
-  ,dbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa        8
-  8                                                              d"8        8
-  8                                                             d' 8        8
-  8        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad'  8        8
-  8        8   8                                               8   8        8
-  8        8   8                                               8   8        8
-  8        8  ,8aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa8aaa8        8
-  8        8 ,P                                                             8
-  8        8,P                                                              8
-  8        8baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaad'
-  8                                                                       d'
-  8                                                                      d'
-  8aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaP'
-                       (ascii art by Normand Veilleux)
-                       
+         verby the verbalizer
+         =.o.=
+    
 }}
 
 CON
